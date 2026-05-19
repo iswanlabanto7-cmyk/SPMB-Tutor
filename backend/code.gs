@@ -5,7 +5,7 @@
  */
 
 const SPREADSHEET_ID = '1AjMjaEUtjjV4Xq2MVOYBFeFD_rtAQ2dUEdS15JLhkX0';
-const FOLDER_ID_DRIVE = '1ATbk2xbjFYLgknsV0LQV4psvnDZyJGVe'; 
+const FOLDER_ID_DRIVE = '1sS83SI80mbgxgiMjtJf1WGvLiGy6LF8c'; 
 const TEMPLATE_DOC_ID = '15aSLt4_mOIDGkYOLkmmoIhqYYyrqM0xjhaVFB9UWHdI'; 
 
 function getJadwalKonfigurasi(group) {
