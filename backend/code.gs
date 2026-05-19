@@ -6,7 +6,7 @@
 
 const SPREADSHEET_ID = '1AjMjaEUtjjV4Xq2MVOYBFeFD_rtAQ2dUEdS15JLhkX0';
 const FOLDER_ID_DRIVE = '1sS83SI80mbgxgiMjtJf1WGvLiGy6LF8c'; 
-const TEMPLATE_DOC_ID = '15aSLt4_mOIDGkYOLkmmoIhqYYyrqM0xjhaVFB9UWHdI'; 
+const TEMPLATE_DOC_ID = '1Hc9bMhqtK-KFL7Krz6M5Wxnq0YKX5EZQtTHHfTufRbM'; 
 
 function getJadwalKonfigurasi(group) {
   const daftarJadwal = {
